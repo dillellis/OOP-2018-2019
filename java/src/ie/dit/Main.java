@@ -53,10 +53,6 @@ public class Main
 	public static void main(String[] args)
 	{
 		Main main = new Main();
-<<<<<<< HEAD
-		main.CafeRubis();			
-=======
 		main.cafeRubis();			
->>>>>>> 564abae82e8d3f647640a971484e0adc3b32b6f0
 	}
 }
