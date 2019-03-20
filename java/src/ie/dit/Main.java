@@ -43,17 +43,10 @@ public class Main
 		
 	}
 
-<<<<<<< HEAD
-	public void CafeRubis()
-	{
-		String[] a = {"MAIN"};
-        processing.core.PApplet.runSketch( a, new CafeRubis());
-=======
 	public void yasc()
 	{
 		String[] a = {"MAIN"};
         processing.core.PApplet.runSketch( a, new YASC());
->>>>>>> eddb58ad50b5d817ff156fb2f95a377429e72cbc
 		
 	}
 
